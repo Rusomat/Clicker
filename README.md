@@ -3,7 +3,7 @@
 
 2)Скачать архив
 
-3)Разархивировать папку Clickermaster
+3)Разархивировать папку Clicker-master
 
 4)В папке Clickermaster в папке dist найти файл игры Clicker.exe
 
